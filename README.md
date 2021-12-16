@@ -3,12 +3,15 @@
 ## Python Tutorials
 - [Python Tutorial]()
 - [Python Enterprise Tutorial]()
-- [Python 3rd Party Libraries]
+- [Python 3rd Party Libraries]()
 
-## Python Science
+## Algorithms
+- [Data Structures & Algorithms]()
+
+## Science
 - [Python Mathematics]()
-- Python Statistics
+- [Python Statistics]()
 
-## Python AI
-- [Machine Learning]
-- [Deep Learning]
+## Machine Learning
+- [Machine Learning]()
+- [Deep Learning]()
