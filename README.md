@@ -29,7 +29,7 @@
   - [SuperSet](https://superset.apache.org)
   - [Redash](https://github.com/getredash/redash)
   - [Metabase](https://www.metabase.com/)
-  - [Visdom](https://github.com/fossasia/visdom
+  - [Visdom](https://github.com/fossasia/visdom)
   - https://pyviz.org/tools.html
 
 - https://vaex.io/docs/index.html
