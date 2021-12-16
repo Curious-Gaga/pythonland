@@ -23,7 +23,7 @@
   - https://pandas.pydata.org/docs/getting_started/install.html#install-recommended-dependencies
   - https://pandas.pydata.org/docs/user_guide/enhancingperf.html#enhancingperf-eval
 
-- https://github.com/pudo/dataset
+- DataSet: https://github.com/pudo/dataset
 
 - Tablib:
   - https://github.com/jazzband/tablib
