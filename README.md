@@ -13,8 +13,8 @@
 
 - Pandas:
   - https://modin.readthedocs.io/en/latest/
-![image](https://user-images.githubusercontent.com/970475/146449923-98637d71-e3bd-47b4-a93b-494221353cd5.png)
-
+  - https://www.datarevenue.com/en-blog/pandas-vs-dask-vs-vaex-vs-modin-vs-rapids-vs-ray
+  - https://www.analyticsvidhya.com/blog/2018/03/pandas-on-ray-python-library-make-processing-faster
 
 ## Scientific Computing
 - [Python Mathematics]()
