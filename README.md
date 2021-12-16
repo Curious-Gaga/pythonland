@@ -23,7 +23,7 @@
   - https://pandas.pydata.org/docs/getting_started/install.html#install-recommended-dependencies
   - https://pandas.pydata.org/docs/user_guide/enhancingperf.html#enhancingperf-eval
 
-- Presto
+- [Presto](https://prestodb.io)
 - [Zeppline](https://zeppelin.apache.org)
 - Data Visualization
   - [SuperSet](https://superset.apache.org)
