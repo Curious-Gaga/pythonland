@@ -8,7 +8,7 @@
 ## Algorithms
 - [Data Structures & Algorithms]()
 
-## Data Science
+## Data Tools
 - [Spark](https://spark.apache.org/):
 
 - [Pandas](https://pandas.pydata.org/):
