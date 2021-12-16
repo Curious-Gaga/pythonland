@@ -9,9 +9,9 @@
 - [Data Structures & Algorithms]()
 
 ## Data Science
-- Spark:
+- [Spark](https://spark.apache.org/):
 
-- Pandas:
+- [Pandas](https://pandas.pydata.org/):
   - https://github.com/modin-project/modin
   - https://modin.readthedocs.io/en/latest/
   - https://www.datarevenue.com/en-blog/pandas-vs-dask-vs-vaex-vs-modin-vs-rapids-vs-ray
@@ -37,8 +37,7 @@
 
 - DataSet: https://github.com/pudo/dataset
 
-- Tablib:
-  - https://github.com/jazzband/tablib
+- [Tablib](https://github.com/jazzband/tablib):
   - https://www.toutiao.com/a6838582842176307724
 
 - OLAP:
