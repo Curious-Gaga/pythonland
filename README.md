@@ -23,6 +23,18 @@
   - https://pandas.pydata.org/docs/getting_started/install.html#install-recommended-dependencies
   - https://pandas.pydata.org/docs/user_guide/enhancingperf.html#enhancingperf-eval
 
+- Presto
+- [Zeppline](https://zeppelin.apache.org)
+- Data Visualization
+  - [SuperSet](https://superset.apache.org)
+  - [Redash](https://github.com/getredash/redash)
+  - [Metabase](https://www.metabase.com/)
+  - [Visdom](https://github.com/fossasia/visdom
+  - https://pyviz.org/tools.html
+
+- https://vaex.io/docs/index.html
+
+
 - DataSet: https://github.com/pudo/dataset
 
 - Tablib:
