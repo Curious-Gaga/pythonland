@@ -30,8 +30,10 @@
   - [Redash](https://github.com/getredash/redash)
   - [Metabase](https://www.metabase.com/)
   - [Visdom](https://github.com/fossasia/visdom)
+  - general UI tool: https://github.com/gradio-app/gradio
+  - an SQL interface: https://github.com/HVF/franchise
   - https://pyviz.org/tools.html
-  - https://github.com/HVF/franchise
+
 
 - https://vaex.io/docs/index.html
 
