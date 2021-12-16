@@ -31,6 +31,7 @@
   - [Metabase](https://www.metabase.com/)
   - [Visdom](https://github.com/fossasia/visdom)
   - https://pyviz.org/tools.html
+  - https://github.com/HVF/franchise
 
 - https://vaex.io/docs/index.html
 
