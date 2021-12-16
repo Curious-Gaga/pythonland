@@ -9,7 +9,7 @@
 - [Data Structures & Algorithms]()
 
 ## Data Tools
-- [Spark](https://spark.apache.org/):
+- [Apache Spark](https://spark.apache.org/):
 
 - [Pandas](https://pandas.pydata.org/):
   - https://github.com/modin-project/modin
@@ -34,6 +34,8 @@
 
 - https://vaex.io/docs/index.html
 
+- [Apache Flink](https://flink.apache.org/)
+
 
 - [DataSet](https://github.com/pudo/dataset)
 
@@ -41,6 +43,7 @@
   - https://www.toutiao.com/a6838582842176307724
 
 - OLAP:
+  - [Apache Kylin](https://kylin.apache.org/)
   - https://olapy.readthedocs.io/en/latest/index.html
   - XMLA access: https://github.com/may-day/olap
   - BI server in Python 2.7: https://github.com/mining/mining
