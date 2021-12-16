@@ -8,7 +8,9 @@
 ## Algorithms
 - [Data Structures & Algorithms]()
 
-## Science
+## Data Science
+
+## Scientific Computing
 - [Python Mathematics]()
 - [Python Statistics]()
 
