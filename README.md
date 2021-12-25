@@ -33,6 +33,7 @@
   - general UI tool: https://github.com/gradio-app/gradio
   - an SQL interface: https://github.com/HVF/franchise
   - https://pyviz.org/tools.html
+  - https://blog.csdn.net/yuanfate/article/details/122066974
 
 
 - https://vaex.io/docs/index.html
